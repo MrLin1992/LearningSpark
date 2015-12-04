@@ -4,6 +4,11 @@ import org.junit.Before;
 import org.junit.Ignore;
 import org.junit.Test;
 
+import com.linshangzhen.learningjava.learningjava.designpatterns.factorymethod.SendFactory;
+import com.linshangzhen.learningjava.learningjava.designpatterns.factorymethod.SendFactory1;
+import com.linshangzhen.learningjava.learningjava.designpatterns.factorymethod.SendFactory2;
+import com.linshangzhen.learningjava.learningjava.designpatterns.factorymethod.Sender;
+
 public class SenderTest {
 	
 	private SendFactory sf;
